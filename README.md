@@ -1,15 +1,16 @@
-# Este é o back-end para se utilizar o codigo do: [Codigo-FrontEnd](https://github.com/gabsakura/app-dados-sensores)
+# Este é o back-end para utilizar o código do: [Código-FrontEnd](https://github.com/gabsakura/app-dados-sensores)
 
-## Para usar este back-end siga os seguintes passos:
+## Para usar este back-end, siga os seguintes passos:
 
-### Primeiramente baixe o projeto utilizando os seguintes comandos no cmd:
+### Primeiramente, baixe o projeto utilizando os seguintes comandos no terminal:
 
 | **$ git clone https://github.com/gabsakura/2emr-backend-IoT-dados-sensores-main** | 
 | **$ cd 2emr-backend-IoT-dados-sensores-main** |
 
-### Então baixe as dependencias necessarias usando o comando de *npm install* para instalar todas as dependencias necessarias para se utilizar esse codigo.
+### Em seguida, baixe as dependências necessárias usando o comando `npm install` para instalar todas as dependências necessárias para utilizar este código.
 
-### Por fim dê o comando "Node Server.js"
-### Se apareceu esta imagem: ![Ola](https://github.com/gabsakura/2emr-backend-IoT-dados-sensores-main/blob/main/image.png).
+### Por fim, execute o comando `node Server.js`.
 
-Pronto agora você ja esta rodando sua aplicação para utilizar o front-end.
+### Se aparecer esta imagem: ![Olá](https://github.com/gabsakura/2emr-backend-IoT-dados-sensores-main/blob/main/image.png),
+
+Pronto! Agora você já está rodando sua aplicação para utilizar o front-end.
